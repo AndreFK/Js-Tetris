@@ -14,8 +14,8 @@ node index.js
 
 # Controls
 
-Rotate left: w
-Rotate right: q
-Pause: esc
-Reset: r
-Drop faster: down arrow
+- Rotate left: w
+- Rotate right: q
+- Pause: esc
+- Reset: r
+- Drop faster: down arrow
