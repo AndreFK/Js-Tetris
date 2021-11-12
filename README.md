@@ -1,10 +1,10 @@
-#Tetris
+# Tetris
 
 Needs node.js and express to run
 
 Can't store pieces (yet)
 
-#Run 
+# Run 
 
 ``` bash
 npm install
@@ -12,7 +12,7 @@ npm install
 node index.js
 ```
 
-#Controls
+# Controls
 
 Rotate left: w
 Rotate right: q
