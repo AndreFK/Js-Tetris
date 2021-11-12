@@ -1,0 +1,28 @@
+body{
+    background: #202028;
+    color: #ffff;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-align: center;
+    display: grid;
+    align-items: center;
+    grid-template-columns: [first] 38% [second] auto [last] 33%;
+}
+
+canvas{
+    border: solid .2em #ffff;
+    height: 90vh;
+    display: grid;  
+    grid-column-start: second;
+    grid-column-end: second;
+}
+
+#instructions{
+    color: #ffff;
+    height: 30vh;
+    display: grid;   
+    justify-self: center;
+    text-align: right;
+    grid-column-start: first;
+    grid-column-end: first;
+}
