@@ -17,6 +17,11 @@ canvas{
     grid-column-end: second;
 }
 
+#score{
+    margin-top: 0.2vh;
+    margin-bottom: 0.2vh;
+}
+
 #instructions{
     color: #ffff;
     height: 30vh;

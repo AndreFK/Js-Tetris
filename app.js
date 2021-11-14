@@ -182,6 +182,7 @@ function playerDrop(){
     }
     dropCounter = 0;
 }
+
 let dropCounter = 0;
 let dropInterval = 1000;
 
