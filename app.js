@@ -33,6 +33,8 @@ function collide(arena, player){
     }
 }
 
+//45555
+
 function createMatrix(w, h){
     const matrix = []
     while(h--){
@@ -68,8 +70,8 @@ function createType(type){
     } else if(type === "I"){
         return [
             [0, 4, 0, 0],
-            [0, 4, 0, 0],
-            [0, 4, 0, 0],
+            [0, 4, 4, 0],
+            [0, 4, 4, 0],
             [0, 4, 0, 0],
         ];
     } else if(type === "S"){
